@@ -1,1 +1,1 @@
-java -DfileName=MutualFunds.xlsx -DnavUrl=https://www.amfiindia.com/spages/NAVAll.txt -jar NavDownloader-1.0.jar 118564 119783 119620 103164 119018 118955 105628 119060 118989 120564 119528 119581 119212 120847 119556
+java -DfileName=MutualFundsNAV.xlsx -DnavUrl=https://www.amfiindia.com/spages/NAVAll.txt -jar NavDownloader-1.0.jar 120564 120847 119060 120564 119018 119528 118421 119436 119556 120465 120505 130503 119018 120510 118834
